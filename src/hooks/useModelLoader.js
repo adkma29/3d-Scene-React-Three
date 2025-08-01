@@ -6,7 +6,10 @@ const modelPaths = [
   '/models/Chest.glb',
   '/models/Houseplant.glb', 
   '/models/luffy_hat.glb',
-  '/models/Pimelea Suaveolens.glb'
+  '/models/Pimelea Suaveolens.glb',
+  '/models/tulip.glb',
+  '/models/Bonsai.glb',
+  '/models/shelfplant.glb'
 ];
 
 // Preload tous les modèles
